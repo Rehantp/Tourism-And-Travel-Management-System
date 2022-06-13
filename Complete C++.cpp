@@ -1,6 +1,6 @@
-int main()
-{
-	RegisteredUsers.h
+
+RegisteredUsers.h
+
 #include <iostream>
 #define rsize 1
 		class RegisteredUser
